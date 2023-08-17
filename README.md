@@ -15,3 +15,7 @@ As stated above, the main Purpose is to provide simple exmples for Git training 
 This is a simple web project, deployment can be on any web server or even on local file system. 
 
 ## How to contribute
+
+## Copyright
+
+2023 Harvey Consulting Services
