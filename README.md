@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2023 Harvey Consulting Services
+2023 Harvey Consulting Services. All rights reserved.
