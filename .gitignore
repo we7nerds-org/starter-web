@@ -1,2 +1,3 @@
 badfile.txt
 log/
+*.orig
